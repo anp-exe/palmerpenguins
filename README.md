@@ -1,4 +1,3 @@
-
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # palmerpenguins <a href='https://allisonhorst.github.io/palmerpenguins/'><img src='man/figures/logo.png' align="right" height="138.5" /></a>
@@ -12,6 +11,11 @@
 
 The goal of palmerpenguins is to provide a great dataset for data
 exploration & visualization, as an alternative to `iris`.
+
+Project notebook: [`my-work-penguins.ipynb`](my-work-penguins.ipynb)
+shows a short end-to-end analysis that loads the penguins data, cleans
+missing values, runs KMeans clustering, and visualizes the cluster
+results.
 
 <img src="man/figures/README-flipper-bill-1.png" width="75%" style="display: block; margin: auto;" />
 
