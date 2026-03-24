@@ -28,9 +28,12 @@ library(palmerpenguins)
 
 <!-- badges: end -->
 
+Project notebook: [`my-work-penguins.ipynb`](my-work-penguins.ipynb) shows a short end-to-end analysis that loads the penguins data, cleans missing values, runs KMeans clustering, and visualizes the cluster results.
+
+
 The goal of palmerpenguins is to provide a great dataset for data exploration & visualization, as an alternative to `iris`. 
 
-Project notebook: [`my-work-penguins.ipynb`](my-work-penguins.ipynb) shows a short end-to-end analysis that loads the penguins data, cleans missing values, runs KMeans clustering, and visualizes the cluster results.
+
 
 ```{r flipper-bill, echo=FALSE}
 flipper_bill <- ggplot(data = penguins,
